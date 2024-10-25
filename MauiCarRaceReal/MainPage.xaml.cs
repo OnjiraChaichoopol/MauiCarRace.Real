@@ -1,5 +1,4 @@
-﻿
-﻿using MauiCarRaceReal.Classes;
+﻿﻿using MauiCarRaceReal.Classes;
 
 namespace MauiCarRaceReal;
 
@@ -49,5 +48,4 @@ public partial class MainPage : ContentPage
 
 	}
 }
-
 
